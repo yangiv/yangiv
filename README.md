@@ -4,7 +4,7 @@ My name is Yang - a human from Earth. Thank you for taking the time to view my G
 
 ## About me
 
-- 🔭 I’m currently working on Nexum Labs.
+- 🔭 I’m currently open to new opportunities.
 - 🌱 I'm currently learning to be an Artist.
 
 ## Tech stack
