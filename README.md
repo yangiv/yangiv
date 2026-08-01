@@ -4,8 +4,8 @@ My name is Yang - a human from Earth. Thank you for taking the time to view my G
 
 ## About me
 
-- 🔭 I’m currently open to new opportunities.
-- 🌱 I'm currently learning to be an Artist.
+- 🔭 I’m no longer a developer.
+- 🌱 I’m currently working as a football analyst.
 
 ## Tech stack
 
